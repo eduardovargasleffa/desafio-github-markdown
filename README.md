@@ -1,10 +1,10 @@
-# Crash Course Github Certification 📖
+# Formação do Certificação Github 📖
 
-This repository is only for education. Used for create branches, tags, commits and test all Github tools.
+Esse repositório é apenas para fins educacionais. Usado para criar branches, tags, commits e testar todas as ferramentas do Github.
 
-## Github tools ⚙️
+## Ferramentas do Github ⚙️
 
-+ Repository
++ Respositório
 + Commit
 + Branch
 + Checkout
@@ -12,6 +12,6 @@ This repository is only for education. Used for create branches, tags, commits a
 + Wiki
 + Pull requests
 + Issues
-+ Security
-+ Settings
-+ Authentication
++ Segurança
++ Configurações
++ Autenticação
